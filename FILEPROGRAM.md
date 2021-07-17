@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat Form Validasi Dengan PHP | www.malasngoding.com</title>
+	<title>Membuat Form Validasi Dengan PHP |aldyronaldy88@gmail.com</title>
 </head>
 <body>
-	<h1>Membuat Form Validasi Dengan PHP <br/> www.malasngoding.com</h1>
+	<h1>Membuat Form Validasi Dengan PHP <br/> aldyronaldy88@gmail.com</h1>
 
 	<?php 
 	if(isset($_GET['nama'])){
